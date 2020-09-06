@@ -1,0 +1,47 @@
+[33mcommit e2f30e73f6f43419d43fda21f79f73b467e1f95c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ivanchikov-alex <mr.ivanchikov@yandex.by>
+Date:   Sun Sep 6 21:47:02 2020 +0300
+
+    test.txt file was moved
+
+[33mcommit cc7f124dbeba48b3eafc226bb2a3a968ebe59e70[m
+Author: ivanchikov-alex <mr.ivanchikov@yandex.by>
+Date:   Sun Sep 6 21:22:13 2020 +0300
+
+    gitignore file added
+
+[33mcommit 937db98cc24e264c48842acec6e2863c7462a053[m
+Author: ivanchikov-alex <mr.ivanchikov@yandex.by>
+Date:   Sun Sep 6 20:29:55 2020 +0300
+
+    test file added
+
+[33mcommit c54e708bc1b3a6ff966a398d4bfe029dd7cd4a59[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ivanchikov-alex <70802999+ivanchikov-alex@users.noreply.github.com>
+Date:   Sat Sep 5 14:35:02 2020 +0300
+
+    Delete del
+
+[33mcommit d08153146c57429ac718842ea0de3680bfb1c66e[m
+Author: ivanchikov-alex <70802999+ivanchikov-alex@users.noreply.github.com>
+Date:   Sat Sep 5 14:34:44 2020 +0300
+
+    Create del
+
+[33mcommit e317f1f4cc50a33e43b460bddb19be941b4d8fd2[m
+Author: ivanchikov-alex <70802999+ivanchikov-alex@users.noreply.github.com>
+Date:   Sat Sep 5 14:27:32 2020 +0300
+
+    Create new file
+
+[33mcommit 2341d1ea7e8e5948d5edc4706dc2f52e4d786035[m
+Author: ivanchikov-alex <70802999+ivanchikov-alex@users.noreply.github.com>
+Date:   Sat Sep 5 14:18:28 2020 +0300
+
+    Update README.md
+
+[33mcommit 899a18f73269082bfcc41a988fe6cdb776e2b130[m
+Author: ivanchikov-alex <70802999+ivanchikov-alex@users.noreply.github.com>
+Date:   Sat Sep 5 14:11:38 2020 +0300
+
+    Initial commit
